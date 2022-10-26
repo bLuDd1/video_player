@@ -17,6 +17,7 @@
 		130ADCC62909F347006AC50C /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130ADCC52909F347006AC50C /* video_playerTests.swift */; };
 		130ADCD02909F347006AC50C /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130ADCCF2909F347006AC50C /* video_playerUITests.swift */; };
 		130ADCD22909F347006AC50C /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 130ADCD12909F347006AC50C /* video_playerUITestsLaunchTests.swift */; };
+		130ADCDF2909F421006AC50C /* Мой фильм 1.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 130ADCDE2909F421006AC50C /* Мой фильм 1.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		130ADCCB2909F347006AC50C /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		130ADCCF2909F347006AC50C /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		130ADCD12909F347006AC50C /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		130ADCDE2909F421006AC50C /* Мой фильм 1.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Мой фильм 1.mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		130ADCAA2909F344006AC50C /* video_player */ = {
 			isa = PBXGroup;
 			children = (
+				130ADCDE2909F421006AC50C /* Мой фильм 1.mp4 */,
 				130ADCAB2909F344006AC50C /* AppDelegate.swift */,
 				130ADCAD2909F344006AC50C /* SceneDelegate.swift */,
 				130ADCAF2909F344006AC50C /* ViewController.swift */,
@@ -237,6 +240,7 @@
 				130ADCBB2909F347006AC50C /* LaunchScreen.storyboard in Resources */,
 				130ADCB82909F347006AC50C /* Assets.xcassets in Resources */,
 				130ADCB32909F344006AC50C /* Main.storyboard in Resources */,
+				130ADCDF2909F421006AC50C /* Мой фильм 1.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
